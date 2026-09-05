@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi,I'm Vaishnavi
 I'm Vaishnavi, an ECE student interested in coding and software development.
 
 🌱 Currently learning:
