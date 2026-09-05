@@ -1,20 +1,26 @@
-Hi,I'm Vaishnavi
-an ECE student interested in coding and software development.
+# 👋 Hi, I'm Vaishnavi
 
-🌱 Currently learning:
-- Python
-- C Programming
-- DSA
-- Web Development
-- Git & GitHub
-- Backend Basics
+## 💫 About Me
 
-💻 Currently working on:
-- Coding practice
-- Small projects
-- Learning to build and deploy projects
+🎓 I'm an **Electronics and Communication Engineering (ECE) student**.
 
-📚 My goal:
-To continuously improve my programming and problem-solving skills and build useful projects.
+🌱 Currently learning **Python, C Programming, DSA, Web Development, Git & GitHub, and Flask**.
 
-✨ Learning • Building • Improving
+💻 I enjoy **coding, problem solving, and building projects**.
+
+🚀 Currently improving my programming skills and learning how to build projects step by step.
+
+## 🛠️ Skills I'm Learning
+
+- **Python**
+- **C Programming**
+- **Data Structures & Algorithms (DSA)**
+- **Web Development**
+- **Git & GitHub**
+- **Backend Basics**
+
+## 🎯 My Goal
+
+To keep learning, build projects, improve my problem-solving skills, and grow as a developer.
+
+✨ **Learning • Building • Improving**
