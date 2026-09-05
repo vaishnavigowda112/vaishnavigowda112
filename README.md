@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm Vaishnavi, an ECE student interested in coding and software development.
 
-<!--
-**vaishnavigowda112/vaishnavigowda112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning:
+- Python
+- C Programming
+- DSA
+- Web Development
+- Git & GitHub
+- Backend Basics
 
-Here are some ideas to get you started:
+💻 Currently working on:
+- Coding practice
+- Small projects
+- Learning to build and deploy projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 My goal:
+To continuously improve my programming and problem-solving skills and build useful projects.
+
+✨ Learning • Building • Improving
