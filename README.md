@@ -1,5 +1,5 @@
-##Hi,I'm Vaishnavi
- an ECE student interested in coding and software development.
+Hi,I'm Vaishnavi
+an ECE student interested in coding and software development.
 
 🌱 Currently learning:
 - Python
