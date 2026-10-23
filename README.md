@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-🎓 I'm an **Electronics and Communication Engineering (ECE) student**.
+🎓 I'm a ** Computer Science and Engineering student**.
 
 🌱 Currently learning **Python, C Programming, DSA, Web Development, Git & GitHub, and Flask**.
 
