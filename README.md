@@ -4,7 +4,7 @@
 
 🎓 I'm a ** Computer Science and Engineering student**.
 
-🌱 Currently learning **Python, C Programming, DSA, Web Development, Git & GitHub, and Flask**.
+🌱 Currently learning **Python, Django, DSA, Web Development, Git & GitHub, and Flask**.
 
 💻 I enjoy **coding, problem solving, and building projects**.
 
